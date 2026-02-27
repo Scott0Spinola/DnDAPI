@@ -1,0 +1,7 @@
+GET http://localhost:5165/monsters
+
+###
+
+GET http://localhost:5165/monsters/1
+
+###
