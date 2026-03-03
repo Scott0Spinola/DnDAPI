@@ -158,3 +158,4 @@ C:\Users\spino\Desktop\GameAPI\DnDAPI\bin\Debug\net10.0\runtimes\win-arm\native\
 C:\Users\spino\Desktop\GameAPI\DnDAPI\bin\Debug\net10.0\runtimes\win-arm64\native\e_sqlite3.dll
 C:\Users\spino\Desktop\GameAPI\DnDAPI\bin\Debug\net10.0\runtimes\win-x64\native\e_sqlite3.dll
 C:\Users\spino\Desktop\GameAPI\DnDAPI\bin\Debug\net10.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\spino\Desktop\GameAPI\DnDAPI\obj\Debug\net10.0\DnDAPI.sourcelink.json

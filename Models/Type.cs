@@ -9,5 +9,4 @@ public class Type
     public required string Monster { get; set; }
 
 
-
 }
